@@ -26,6 +26,7 @@ Only ARM cross-compiler(ARMEL) 4.6.x support these two options.
 
 
 從source code 開始打造最基本的Debian linux system
+Posted on 2014-12-03 by hao
 
 這幾天將以前寫好的一些自動compile uboot 及 linux kernel 的script 給放到GitHub 去了.
 這些script 是提供給一些對於source code 有偏執狂, 以及有興趣研究Cubieboard linux system 如何製作出來的人, 大家可以來研究及討論.
